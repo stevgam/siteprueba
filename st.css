@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000000;
+}
+.st-img {
+  width: 100%;
+}
+
+.st-div {
+  width: 50%;
+}
+
+.st-center {
+  text-align: center;
+}
